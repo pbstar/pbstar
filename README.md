@@ -8,5 +8,4 @@
 [![](https://img.shields.io/badge/CSDN-初辰ge-FC5531.svg)](https://blog.csdn.net/chuenst)
 ![Profile views](https://views.whatilearened.today/views/github/pbstar/views.svg)
 
-<img height="130px" src="https://github-readme-stats.vercel.app/api?username=pbstar&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="pbstar's GitHub Stats">
-<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pbstar&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+<img height="130px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pbstar&hide_title=true&layout=compact&theme=graywhite&hide_border=false&bg_color=ffffff" alt="Most Used Languages">
