@@ -1,8 +1,8 @@
-<img height="130px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pbstar&hide_title=true&layout=compact&theme=graywhite&hide_border=false&bg_color=ffffff" alt="Most Used Languages">
+<img height="130px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pbstar&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=ffffff" alt="Most Used Languages">
 
 - 🔭 你好呀！💡
 
-- 🤔 这里是初辰，励志做一个有意思的全栈工程师
+- 🤔 这里是初辰，励志做一个有理想的前端工程师
 
 [![](https://img.shields.io/badge/GitHub-pbstar-blue.svg)](https://github.com/pbstar)
 [![](https://img.shields.io/badge/Email-pbstar@sina.cn-red.svg)](mailto:pbstar@sina.cn)
