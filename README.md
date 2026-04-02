@@ -4,4 +4,4 @@
 
 - 🤔 这里是初辰，一个有理想的切图仔
 
-- 🌱 专注于 HTML、CSS、JavaScript、Vue、Nodejs 等技术
+- 🌱 专注于 HTML、CSS、JavaScript、TypeScript、Vue、Nodejs 等技术
