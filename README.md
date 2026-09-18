@@ -1,5 +1,5 @@
-<h3 align="center">👋 你好</h3>
-<p align="center">🧑‍💻 我是<b>初辰</b>，一个有理想的切图仔，专注于以下技术</p>
+<h3 align="center">👋 Hi，这里是 <b>初辰</b>，一个有理想的切图仔</h3>
+<p align="center">专注于以下技术栈 👇</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-e34f26?style=flat-square" alt="HTML" />
