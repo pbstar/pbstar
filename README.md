@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi，这里是 <b>初辰</b>，一个有理想的切图仔</h3>
+<h3 align="center">👋 Hi，这里是 <b>初辰</b>，一个有想法的切图仔</h3>
 <p align="center">专注于以下技术栈 👇</p>
 
 <p align="center">
